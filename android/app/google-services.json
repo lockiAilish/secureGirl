@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "216497581420",
+    "firebase_url": "https://girl-56797.firebaseio.com",
+    "project_id": "securegirl",
+    "storage_bucket": "securegirl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216497581420:android:fe8a140e1a7be00463d749",
+        "android_client_info": {
+          "package_name": "app.securegirl.com.securegirl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216497581420-r8k6uct0bgac4f7su4g5ef8h06jpnsif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGygsrDfMwKWhonsg74QPobbmWz3cVkZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216497581420-r8k6uct0bgac4f7su4g5ef8h06jpnsif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216497581420:android:090f542846247ea863d749",
+        "android_client_info": {
+          "package_name": "com.securegirl.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216497581420-r8k6uct0bgac4f7su4g5ef8h06jpnsif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGygsrDfMwKWhonsg74QPobbmWz3cVkZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216497581420-r8k6uct0bgac4f7su4g5ef8h06jpnsif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
